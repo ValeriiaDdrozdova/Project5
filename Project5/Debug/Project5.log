@@ -1,0 +1,5 @@
+﻿  Project5.cpp
+C:\resuult\Project5\Project5\Project5.cpp(79,23): warning C4553: '==': result of expression not used; did you intend '='?
+C:\resuult\Project5\Project5\Project5.cpp(83,24): warning C4553: '==': result of expression not used; did you intend '='?
+C:\resuult\Project5\Project5\Project5.cpp(111,13): warning C4553: '==': result of expression not used; did you intend '='?
+  Project5.vcxproj -> C:\resuult\Project5\Debug\Project5.exe
